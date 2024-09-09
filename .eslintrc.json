@@ -31,7 +31,7 @@
     "ecmaFeatures": {
       "jsx": true
     },
-    "project": ["./tsconfig.json"]
+    "project": ["./tsconfig.app.json", "./tsconfig.node.json"]
   },
   "rules": {
     "prettier/prettier": [
